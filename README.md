@@ -1,2 +1,3 @@
-# Jamwerks
-A simple REST-ful Blog App made using the MEN Stack
+# spansucksatmusic
+
+A simple RESTful blog app.
